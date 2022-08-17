@@ -1,0 +1,8 @@
+  <parameters>
+    <index>/fs/clip-scratch/petra/msmarco-v2-index</index>
+    <memory>1G</memory>
+    <corpus>
+      <path>/fs/clip-scratch/petra/msmarco_v2_passage_trec_normalized.trec</path>
+      <class>trectext</class>
+    </corpus>
+  </parameters>
